@@ -11,6 +11,11 @@
     <link rel="stylesheet" href="view/css/plugins/font-awesome.min.css">
     <script src="view/js/plugins/jquery.min.js"></script>
     <script src="view/js/plugins/bootstrap.min.js"></script>
+    
+    <!-- My CSS styles -->
+<link rel="stylesheet" href="view/css/template.css">
+<link rel="stylesheet" href="view/css/header.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
 </head>
 <body>
     <?php

@@ -2,33 +2,33 @@
 <div class="container">
 <div class="row">
 <!-- Social  Networks -->
-<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 social">
+<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 socialNetwork">
 <ul>
 <li>
 <a href="https://facebook.com" target="_black">
-<i class="fa fa-facebook"></i>
+<i class="fa fa-facebook facebookWhite"></i>
 </a>
 </li>
 <li>
 <a href="https://youtube.com" target="_black">
-<i class="fa fa-youtube"></i>
+<i class="fa fa-youtube youtubeWhite"></i>
 </a>
 </li>
 <li>
 <a href="https://instagram.com" target="_black">
-<i class="fa fa-instagram"></i>
+<i class="fa fa-instagram instagramWhite"></i>
 </a>
 </li>
 <li>
 <a href="https://twitter.com" target="_black">
-<i class="fa fa-twitter"></i>
+<i class="fa fa-twitter twitterWhite"></i>
 </a>
 </li>
 </ul>
 </div>
 
 <!-- Register  -->
-<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 social">
+<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 registry">
 <ul>
 <li>
 <a href="#signInModal" data-toggle="model">Sign in</a>
@@ -68,7 +68,7 @@
 </div>
 
 <!-- Search -->
-<div class="input-groupcol-lg-8 col-md-8 col-sm-8 col-xs-12" id="search">
+<div class="input-group col-lg-8 col-md-8 col-sm-8 col-xs-12" id="search">
 <input type="search" name="search" class="form-control" placeholder="Search...">
 <span class="input-group-btn">
 <a href="#">
@@ -78,7 +78,73 @@
 </a>
 </span>
 </div>
+
+<!-- Shopping car -->
+<div class="col-lg-3 col-md-3 col-sm-2 col-xs-12" id="shoppingCar">
+<a href="#">
+<button class="btn btn-default pull-left backgroundColor">
+<i class="fa fa-shopping-cart"></i>
+</button>
+</a>
 </div>
+
+</div>
+</div>
+
+<div class="col-xs-12 backgroundColor" id="categories">
+<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+<h4>
+<a href="#" class="pixelCategories">Lorem ipsum</a>
+<hr>
+<ul>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+</ul>
+</h4>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+<h4>
+<a href="#" class="pixelCategories">Lorem ipsum</a>
+<hr>
+<ul>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+</ul>
+</h4>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+<h4>
+<a href="#" class="pixelCategories">Lorem ipsum</a>
+<hr>
+<ul>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+</ul>
+</h4>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
+<h4>
+<a href="#" class="pixelCategories">Lorem ipsum</a>
+<hr>
+<ul>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+<li><a href="http://" target="_blank" class="pixelSubCategories">Lorem ipsum</a></li>
+</ul>
+</h4>
+</div>
+
 </div>
 </div>
 </header>
