@@ -7,12 +7,12 @@
 }
 
 ul,ol{
-padding: 0px;
+    padding: 0px;
 }
 
 a:visited, a:link, a:focus, a:hover, a:active{
-list-style: none;
-text-decoration: none;
+    list-style: none;
+    text-decoration: none;
 }
 
 .topBar a{
@@ -33,7 +33,7 @@ text-decoration: none;
 }
 
 
-/*Facebook*/
+/Facebook/
 .facebookWhite{
     color: white;
 }
@@ -47,7 +47,7 @@ text-decoration: none;
     background-color: #46639f;
 }
 
-/*Youtube*/
+/Youtube/
 .youtubeWhite{
     color: white;
 }
@@ -61,7 +61,7 @@ text-decoration: none;
     background-color: #d6513e;
 }
 
-/*Twitter*/
+/Twitter/
 .twitterWhite{
     color: white;
 }
@@ -75,7 +75,7 @@ text-decoration: none;
     background-color: #0ab2e6;
 }
 
-/*Instagram*/
+/Instagram/
 .instagramWhite{
     color: white;
 }
