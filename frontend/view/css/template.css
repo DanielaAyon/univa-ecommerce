@@ -7,12 +7,12 @@
 }
 
 ul,ol{
-padding: 0px;
+    padding: 0px;
 }
 
 a:visited, a:link, a:focus, a:hover, a:active{
-list-style: none;
-text-decoration: none;
+    list-style: none;
+    text-decoration: none;
 }
 
 .topBar a{

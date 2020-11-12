@@ -1,18 +1,20 @@
 /*top*/
-#top{
+#top {
     background-color: black;
 }
 
-#top ul{
+#top ul {
     padding-top: 8px;
-    display: flex; 
+    display: flex;
 }
-#top ul a{
+
+#top ul a {
     padding-top: 8px;
-    display: flex; 
+    display: flex;
     margin-left: 60px;
 }
-#top ul li{
+
+#top ul li {
     display: inline;
     line-height: 30px;
     margin: 0px 5px;
@@ -20,41 +22,44 @@
     text-align: right;
 }
 
-#top ul li a{
+#top ul li a {
     line-height: 30px;
     margin: 5px;
     color: blue;
     text-align: right;
 }
 
-.socialNetwork ul li a i{
-font-size: 18px;
-margin: 0 1px;
-display: flex;
+.socialNetwork ul li a i {
+    font-size: 18px;
+    margin: 0 1px;
+    display: flex;
 }
 
 .socialNetwork ul li a {
     font-size: 18px;
     margin: 0 1px;
     display: flex;
-    }
-    
+}
 
 
 /*header*/
-header #buttonCategories{
-    margin: 20px 0;
+header #buttonCategories {
+    border-radius: 5px;
 }
 
-header #buttonCategories p{
+header #buttonCategories p {
     line-height: 40px;
     margin-bottom: 0px;
 }
 
-header #buttonCategories p span{
- 
+header #buttonCategories p span {
+
 }
 
-header #serach span{
- margin-left: 10px;
+header #serach span {
+    margin-left: 10px;
+}
+
+.registry {
+    padding-top: -1%;
 }
